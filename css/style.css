@@ -1,0 +1,147 @@
+
+body { 
+    background-color: rgb(180, 185, 196);
+}
+
+#capinha{ 
+     text-align: center;
+    background-color: rgb(51, 47, 47);
+    color:rgb(0, 0, 0);
+    padding-top: 3px;
+    padding-left: 20px;
+    padding-bottom: 55px;
+    
+    margin-left: 400px;
+    margin-right: 400px;
+    
+    border-radius: 100px;
+}
+
+.cabecario { 
+   text-align: center;
+   
+   font-size: 30px;
+   background-color: rgb(104, 101, 100);
+   color:rgb(13, 52, 136);
+
+   margin-left: 40px;
+   max-width: 410px;
+   padding-bottom: 0px;
+   margin-bottom: 20px;
+
+   
+   border-radius: 100px;
+    
+}
+
+.produto { 
+    font-size: 20px;
+    background-color: rgb(160, 161, 172);
+    color: rgb(3, 7, 1);
+
+    padding-bottom: 1px;
+    border-radius: 17px;
+     
+    margin-left: 44px;
+    max-width: 320px;
+    margin-bottom: 20px;
+}
+
+#geral { 
+    text-align: center;
+
+   background-color: rgb(104, 101, 100);
+    
+    background-size: cover;
+    
+    
+    margin-left: 40px;
+    max-width: 410px;
+    
+   padding-bottom: 30px;
+
+    border-radius: 17px;
+    margin-bottom: 10px;
+}
+
+button { 
+    background-color: rgb(48, 77, 139);
+    color:rgb(253, 253, 253);
+    border-radius: 30px;
+    cursor: pointer;
+    
+
+    margin-left: 0px;
+    max-width: 900px;
+    padding-bottom: 2px;
+    padding: 10px;
+ 
+
+}
+
+.ou3 { 
+
+    background-color: rgb(160, 161, 172);
+
+    padding-bottom: 1px;
+    border-radius: 17px;
+     
+    margin-left: 44px;
+    max-width: 320px;
+    margin-bottom: 20px;
+}
+
+.pontinho { 
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    color:rgb(160, 161, 172);
+    background-color: rgb(104, 101, 100);
+    background-size: cover;
+    margin-left: 40px;
+    max-width: 410px;
+   padding-bottom: 10px;
+    border-radius: 17px;
+}
+
+
+
+.github { 
+    display: inline-table;
+    background-color: rgb(255, 255, 255); 
+    
+    margin-left: 450px;
+    
+    padding-left: 200px;
+    padding-right: 198px; 
+    
+    margin-top: 100px;
+  
+    
+
+    border-radius: 70px;
+}
+
+.nome {
+
+    background-color: rgb(255, 255, 255); 
+    
+    margin-left: 615px;
+    margin-right: 600px; 
+
+    padding-left: 27px;
+    
+    
+    margin-top: 2px;
+  
+    
+
+    border-radius: 70px;
+}
+    
+
+
+
+
+   
+   
